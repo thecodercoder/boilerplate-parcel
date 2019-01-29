@@ -1,6 +1,6 @@
 # boilerplate-parcel
 
-![Bundle your files more quickly with Parcel JS](https://imgur.com/D7ggQBB)
+![Bundle your files more quickly with Parcel JS](https://i.imgur.com/D7ggQBB.png)
 
 Parcel.js is billed as a "zero configuration" bundler. It can transform and compile your HTML, SCSS, JS and many other file types, with a minimum of time spent setting up a config file.
 
