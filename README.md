@@ -74,4 +74,4 @@ However, when using their code snippet, when I built the project, the CSS class 
 
 ## More resources
 
-I created this GitHub project to accompany a blog post on getting up and running with Parcel. [Check it out here.](https://coder-coder.com/bundle-files-quickly-parcel/)
+I created this GitHub project to accompany a blog post on getting up and running with Parcel. <a href="https://coder-coder.com/bundle-files-quickly-parcel" target="_blank">Check it out here.</a>
