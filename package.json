@@ -9,6 +9,7 @@
     "postcss-modules": "^1.4.1"
   },
   "devDependencies": {
+    "cssnano": "^4.1.8",
     "sass": "^1.16.1"
   }
 }
